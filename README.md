@@ -2,8 +2,6 @@
 
 <h1 align="center"> Challenge del amigo secreto </h1>
 
-![Portada del proyecto](assets/amigo-secreto.png)
-
 Como se usa?
 
 _Escribe el nombre de un amigo y presiona "Añadir"
